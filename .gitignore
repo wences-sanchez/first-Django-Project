@@ -1,2 +1,6 @@
 /.vscode
 restful01/settings.py
+db.sqlite3
+/toys/migrations
+/toys/__pycache__
+/restful01/__pycache__
