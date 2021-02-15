@@ -2,3 +2,6 @@
 /env
 /restful01/__pycache__
 /restful02/restful02/__pycache__
+/restful02/toys/__pycache__
+/restful02/toys/migrations
+/restful02/db.sqlite3
